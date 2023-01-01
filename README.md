@@ -1,6 +1,8 @@
 <h1>G-Health</h1>
 <small>Platform bagi masyarakat untuk menenangkan diri dan pikiran melalui pelayanan yang disediakan.</small>
 
+<img width="3531" alt="Main Image" src="[https://user-images.githubusercontent.com/121760823/210180821-f6487f48-5eff-4761-8d6d-25d9668311a2.png](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)">
+
 ![ghealth](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)
 
 <h2>Display</h2>
