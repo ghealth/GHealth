@@ -12,12 +12,13 @@
 <h2>Features</h2>
 
 <p>Audio Therapy</p>
-![Audio](https://user-images.githubusercontent.com/121760823/210181709-9ef9bf72-c4c2-4441-b38d-06fc080777a9.png)
+![ghealth](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)
 
 <p>Yoga Therapy</p>
+![ghealth](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)
 
 <p>Forum Disscussion</p>
-
+![ghealth](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)
 
 <p>Consult A Doctor</p>
 <small>Fitur ini akan diarahkan ke situs konsultasi Dokter online 
