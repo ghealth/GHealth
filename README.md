@@ -13,14 +13,9 @@
 
 <h2>Features</h2>
 
-<li>Audio Theraphy</li>
-![Audio](https://user-images.githubusercontent.com/121760823/210181314-018dfa8f-9631-4928-bcfe-2eee7ecf28b3.png)
+<p>Audio Therapy</p>
+![Audio](https://user-images.githubusercontent.com/121760823/210181451-27bc3239-cc6e-443a-9a81-2a885710a176.png)
 
-<br>
-
-<li>Yoga Theraphy</li> <br>
-
-<li>Forum Disccussion</li> <br>
 
 <li>Consult A Doctor</li>
 <small>Fitur ini akan diarahkan ke situs konsultasi Dokter online 
