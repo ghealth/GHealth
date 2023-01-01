@@ -8,20 +8,25 @@
 ![Mockup](https://user-images.githubusercontent.com/121760823/210178998-d224b79b-3318-40e0-a24b-c1f35bedaebb.png)
 
 <h2>User Stories</h2>
+<img width="3531" alt="User Flow" src="https://user-images.githubusercontent.com/121760823/210181967-85d0efe9-2644-4bb5-b7a7-61495a10c921.png">
+
 
 <h2>Features</h2>
 
-<p>Audio Therapy</p>
-<small>Fitur ini merupakan fitur yang disediakan untuk mendengarkan Audio, baik berupa lagu ataupun podcast yang berkaitan dengan Mental Health </small>
+<ol>
+<li>Audio Therapy</li>
+<small>Fitur ini merupakan fitur yang disediakan untuk mendengarkan audio baik berupa lagu ataupun podcast tentang mental health </small>
 
-<p>Yoga Therapy</p>
+<li>Yoga Therapy</li>
 <small>Fitur ini merupakan fitur yang disediakan untuk menonton video yoga yang dapat menenangkan diri dan pikiran </small>
 
-<p>Forum Disscussion</p>
+<li>Forum Disscussion</li>
 <small>Fitur ini merupakan fitur yang disediakan untuk saling berbagi cerita kepada User lain mengenai Mental Health </small>
 
-<p>Consult A Doctor</p>
-<small>Fitur ini akan diarahkan ke situs konsultasi Dokter online 
+<li>Consult A Doctor</li>
+<small>Fitur ini akan diarahkan ke situs konsultasi Dokter online </small>
+
+</ol>
 
 <h2>Technologies</h2>
 
