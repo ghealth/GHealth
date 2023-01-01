@@ -13,6 +13,18 @@
 
 <h2>Features</h2>
 
+<li>Audio Theraphy</li>
+![Audio](https://user-images.githubusercontent.com/121760823/210181314-018dfa8f-9631-4928-bcfe-2eee7ecf28b3.png)
+
+<li>Yoga Theraphy</li>
+![Yoga](https://user-images.githubusercontent.com/121760823/210181319-39545711-148b-41ca-87b0-a707c02f5ade.png)
+
+<li>Forum Disccussion</li>
+![Forum](https://user-images.githubusercontent.com/121760823/210181321-134cf351-df1e-4ee5-ba88-337ee24f1a21.png)
+
+<li>Consult A Doctor</li>
+<small>Fitur ini akan diarahkan ke situs konsultasi Dokter online 
+
 <h2>Technologies</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
