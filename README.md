@@ -9,6 +9,8 @@
 
 <h2>User Stories</h2>
 
+<img width="3531" alt="User Flow" src="https://user-images.githubusercontent.com/121760823/210180821-f6487f48-5eff-4761-8d6d-25d9668311a2.png">
+
 <h2>Features</h2>
 
 <h2>Technologies</h2>
