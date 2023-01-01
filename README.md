@@ -12,11 +12,11 @@
 <h2>Features</h2>
 
 <p>Audio Therapy</p>
+![Audio](https://user-images.githubusercontent.com/121760823/210181709-9ef9bf72-c4c2-4441-b38d-06fc080777a9.png)
 
 <p>Yoga Therapy</p>
 
 <p>Forum Disscussion</p>
-![Forum](https://user-images.githubusercontent.com/121760823/210181538-9fdf1b4c-184a-4fc4-b07f-a1c2d0a46b23.png)
 
 
 <p>Consult A Doctor</p>
