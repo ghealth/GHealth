@@ -12,13 +12,13 @@
 <h2>Features</h2>
 
 <p>Audio Therapy</p>
-![ghealth](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)
+<small>Fitur ini merupakan fitur yang disediakan untuk mendengarkan Audio, baik berupa lagu ataupun podcast yang berkaitan dengan Mental Health </small>
 
 <p>Yoga Therapy</p>
-![ghealth](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)
+<small>Fitur ini merupakan fitur yang disediakan untuk menonton video yoga yang dapat menenangkan diri dan pikiran </small>
 
 <p>Forum Disscussion</p>
-![ghealth](https://user-images.githubusercontent.com/121760823/210176759-c8a6c2fd-7ed3-439c-81a5-4136477c6557.png)
+<small>Fitur ini merupakan fitur yang disediakan untuk saling berbagi cerita kepada User lain mengenai Mental Health </small>
 
 <p>Consult A Doctor</p>
 <small>Fitur ini akan diarahkan ke situs konsultasi Dokter online 
